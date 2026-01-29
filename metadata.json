@@ -1,0 +1,8 @@
+{
+  "name": "GHS Chiragh Din Wala LMS",
+  "description": "ایک جامع تعلیمی پورٹل گورنمنٹ ہائی سکول چراغ دین والا، قصور کے لیے، جس میں ایڈمن، اساتذہ اور طلباء کے لیے الگ الگ ڈیش بورڈز اور لائیو کلاس روم چیٹ شامل ہے۔",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
